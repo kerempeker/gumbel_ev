@@ -1,0 +1,35 @@
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select, button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+.selected-info {
+  margin-top: 20px;
+}
+
+button {
+  display: none;
+  padding: 10px;
+  background-color: #ffaa00;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
