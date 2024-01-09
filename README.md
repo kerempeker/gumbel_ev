@@ -25,16 +25,16 @@ This project aims to provide a user-friendly interface for electric vehicle (EV)
 <p></p>
 <p></p>
 
+<img width="502" alt="Ekran Resmi 2024-01-09 16 17 15" src="https://github.com/kerempeker/gumbel_ev/assets/69105430/7da2fed0-dba2-432f-88cb-64e6aa03bfe3">
+
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
 
 <img width="499" alt="Ekran Resmi 2024-01-09 16 17 33" src="https://github.com/kerempeker/gumbel_ev/assets/69105430/9bdb94fe-9454-435c-8e02-8ad013d132e4">
-
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
-
-<img width="502" alt="Ekran Resmi 2024-01-09 16 17 15" src="https://github.com/kerempeker/gumbel_ev/assets/69105430/7da2fed0-dba2-432f-88cb-64e6aa03bfe3">
 
 <p></p>
 <p></p>
