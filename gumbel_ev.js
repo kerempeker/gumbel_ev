@@ -8,11 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const redirectButton = document.getElementById('redirectButton');
 
   const data = [
-    {
-      "MARKA": "Marka Seçiniz",
-      "MODEL": "Marka Seçiniz",
-      "AC ŞARJ GÜCÜ": "11 kW"
-     },
+
     {
       "MARKA": "Abarth",
       "MODEL": "Abarth 500e",
