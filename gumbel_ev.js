@@ -2249,6 +2249,13 @@ document.addEventListener('DOMContentLoaded', function () {
     const filteredModels = data.filter(item => item.MARKA === selectedBrandValue);
 
     carModelsDropdown.innerHTML = '';
+
+    const defaultModelOption = document.createElement('option');
+    defaultModelOption.text = 'Model Seçiniz';
+    defaultModelOption.disabled = true;
+    defaultModelOption.selected = true;
+    carModelsDropdown.add(defaultModelOption);
+    
     filteredModels.forEach(model => {
       const option = document.createElement('option');
       option.text = model.MODEL;
